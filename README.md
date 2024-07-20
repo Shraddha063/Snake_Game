@@ -1,1 +1,1 @@
-Snake ladder game built using python
+Snake game built using python
